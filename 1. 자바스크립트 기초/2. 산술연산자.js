@@ -4,9 +4,9 @@
 console.log(27 % 5);
 
 // 뒤에 숫자가 더크면 앞에숫자가 나머지
-console.log (4 % 10);
+console.log(4 % 10);
 
-// console.log(77 % 0);
+// console.log(77 % 0); 
 console.log(0 % 77);
 
 // 거듭제곱 연산
@@ -34,13 +34,13 @@ var n4 = ++n3;
 console.log(`n3: ${n3}, n4: ${n4}`);
 
 
-x += 1; // x = x + 1; 
+x += 1; // x = x + 1;
 x++;
 
-x += 3;  //x = x + 3;
+x += 3; // x = x + 3;
 
 
 var z = 10;
+
 console.log(z - 5);
 console.log(z);
-
