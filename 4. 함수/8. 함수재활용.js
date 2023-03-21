@@ -11,7 +11,7 @@ function myIndexOf(arr, element) {
 }
 
 function myIncludes(arr, element) {
-    return myIndexOf(arr, element) !== -1;
+    return myIndexOf(arr, element) !== NOT_FOUND;
 }
 
 
